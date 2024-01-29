@@ -1,0 +1,1 @@
+<?php $con =  mysqli_connect("localhost", "root", "" , "db_ayathra") or die("Database Connection Fail"); ?> 
